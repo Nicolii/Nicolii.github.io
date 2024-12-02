@@ -8,9 +8,7 @@ permalink: /CypherSystem/Players
 jhaskldfjhljka'as
  
 asf
-f
-ds
-af
-as
-
-# BiG ChanGE
+f  
+ds  
+af  
+as  
