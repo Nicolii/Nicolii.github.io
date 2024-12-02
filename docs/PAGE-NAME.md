@@ -12,3 +12,5 @@ _Italics_
 ~~Strikethrough~~
 
 [Google Hyperlink](https://www.google.com.au)
+
+[[Testing2]]
