@@ -4,6 +4,8 @@ title: "New Gaia Information"
 permalink: /CypherSystem/New Gaia/Information
 ---
 
+[[#The Eldar]]
+
 # The Eldar
 ## Eldar Language
 ### Insults
