@@ -9,7 +9,7 @@ permalink: /WhoTheDevilAreYou/Rules
 ## HURDLE
 
 |            |            |
-| :--------- | :--------- |
+| :--------: | :--------- |
 | `01 - 02 ` | Easy       |
 | `03 - 04 ` | Average    |
 | `05 - 06 ` | Hard       |
