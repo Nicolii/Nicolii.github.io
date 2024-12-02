@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "New Gaia Information"
-permalink: /CypherSystem/NewGaia/Information
+title: "New Gaia"
+permalink: /CypherSystem/NewGaia/NewGaia
 ---
 # New Gaia
 New Gaia, an enormous, rich new land discovered far from the [[Empire]] and the [[Kingdoms]]. A little over 10 years ago this new land was found (no one's really sure which side discovered it first) by both sides, seeking to find a new route from which to assault one another. [[The Bright Empire]], while closer, does not have the advanced sciences or steam engines to power their efforts, and their divine magic, while great for many things, does not build towns. Over the last decade, both sides have begun to build colonies and begin exploring New Gaia, discovering the magical resources, creatures, and peoples that inhabit it.
@@ -40,43 +40,4 @@ Animals in this new land are even more diverse than the peoples that live amongs
 - Many "undesirables" from both the Kingdoms and the Empire have fled to the shores, some of the worst criminals, killers, and heretics have fled their homelands and hidden within this large open space, it is rumoured that most have already been lost to the wilds, and some have been taken and changed by the dark things deep within the forests. Some small homesteads said to have been victim to the predations of the Burned Man.
 - Rumours, in both the Empire and Iron Kingdoms settlements of a horrifically burned sorcerer who commands dark forces has taken up operations all across New Gaia. His agents, when struck down are rumoured to come back to life, possessed by evil spirits or strange magical creatures, or rumoured to have been little more than demons to begin with. There are, the rumours are all in agreement on, that there is some dark entity or group working against both the kingdoms and the empire in the new world.
 - Ruins and relics, the good old R&R. Archaeologists, treasure hunters, and explorers of all types work to gain passage to the new world for one primary reason. This new land seems to hold a wealth of relics from a long gone civilization, one quite distinct from the few remaining Eldar relics across the sea. Entire cities, meticulously shaped from solid stone, intricate metal work like no one has ever seen, and powerful magically infused artifacts are all there for the study.... and the plunder.
-
-
-# Bright Empire
-A large continent to the east of New Gaia. The entire continent is ruled by holy empire that worships Solus, the Bright Lord, a deity of the sun. All other religions are declared heretical, and defiers of the Empire are cleansed in the Lords Light (aka burned by divine magic). Their unified, disciplined, and fire magic wielding military makes them a formidable foe for the much less religious (and there for possessing less divine might) Iron Kingdoms when they turned their eyes to their lands, hoping to bring the Light to the entire world.
-
-
-## Imperial
-Originating in the lands taking up the south eastern quarter of the empire are the Imperials. For thousands of years they have been the Bright Empire, but it was only 100 years ago that the entirety of the continent could be said to be under the rule of the empire. Which, of course, then allowed them to set the sights on distant lands, and they began sailing East, to the iron Kingdoms. Imperials are a diverse lot, having incorporated people and cultures from all over the continent but they all have one thing in common, their devout (or at least seemingly) worship of their god Solus, the Bright Lord.
-
-
-## Mizu (Mizun)
-The Mizun live throughout the central wetlands and towering mountains that separate the original Imperial lands and Virtus to the west. Much of the large scale farming in the empire is done within the fertile Mizu lands, their grains fuelling the Imperial machine. The Mountain Lords of Mizu were the first to fall under the banner of the Bright Lord, ages ago when their expansion across the continent began, and exist now as little more than bandit clans hidden deep within the mist shrouded peaks. They still, hold to much of their culture and heritage, but now most worship the Bright Lord rather than the spirits of the water (for which they have nearly 200 different words) their ancestors honoured.
-
-
-## Virtus (Virtusi)
-Virtus is a fertile green land known for its sprawling vineyards and highly sought spices. Their food and drink is highly sought throughout the empire. While the Bright Empire has attempted to outlaw it several times, with rather unfortunate results, it now officially sanctions and monitors the duels fought amongst the particularly rowdy Virtusi youth, usually with the thin but agile blades popular in their culture for it's finesse and beauty in flight. With imperial priests in attendance, death is much less likely of a result, saving more warriors for the Imperial army, and giving them a chance to survey and guide the training of the fierce swordsmen.
-
-
-# Iron Kingdom
-A confederation of independent nations and kingdoms. They were formed over 60 years ago in opposition to the rising threat of Imperial invasion. 10 years later they began their war against the Imperials on the shores of the arid nation of Deshantis.
-
-The Iron Kingdoms have a wide diversity of culture, and are much more scientifically advanced than their religious counterpart.
-
-
-## Norheim (Norden)
-In the frozen northern lands, once disparate warring tribes, now a powerful military kingdom. Their invention of coal engines to power their steel warships, and warrior culture proved a key factor in turning back the Imperial invasion. Their mastery of the sea has made them a prime component in the colonization of New Gaia as well. (these are giant moose riding vikings withiron steam ships and guns lol).
-
-
-## Orso (Orsi)
-To the south east of Nordheim is the land of Orsi. Orsi is a country of sprawling fertile grasslands. They are the leading provided of cattle and horses in the Iron Kingdoms. More importantly, they invented and through a partnership with Nordheim (trading food for iron, and outfitting their warships with canons) produce the majority of firearms as well.
-
-
-## Atol (Atolian)
-Atol is an arid land, in between orso and Bastion. The continent is primarily covered in desert, but the Atolians have learned to live quite well on the inhospitable lands. Their leaders were primarily responsible for the formation and stability of the Iron Alliance, and are well known for being proodigious traders and capable diplomats throughtout all the kingdoms.
-
-
-## Bastion (Bastionite)
-The tropical island nation of Bastion is home to the renowned Academ Bastion, on of the largest and most honoured places of learning in the known world. The people of Bastion are, in large part, renowned scholars, philosophers, scientists, archeologists, and others called to a higher learning. Despite the nations small size, they boast the highest diversity due to the number of people of foreign nations that travel to study, and interact with those that study, there.
-
 
