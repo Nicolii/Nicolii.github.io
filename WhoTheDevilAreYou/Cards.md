@@ -17,13 +17,13 @@ permalink: /WhoTheDevilAreYou/Cards
 | `27 -  37` | **[I'M BETTER THAN YOU THINK](https://nicolii.github.io/WhoTheDevilAreYou/Cards#im-better-than-you-think)**                 |
 | `38 -  45` | **[I'VE BEEN CALLED WORSE BY BETTER](https://nicolii.github.io/WhoTheDevilAreYou/Cards#ive-been-called-worse-by-better)**   |
 | `46 -  49` | **[I'VE SEEN THIS BEFORE](https://nicolii.github.io/WhoTheDevilAreYou/Cards#ive-seen-this-before)**                         |
-| `50 -  57` | **[JUST THE THING]()**                     |
-| `58 -  65` | **[NOT LETTING THAT HAPPEN]()**            |
-| `66 -  69` | **[OUTSIDE HELP]()**                       |
-| `70 -  80` | **[SHRUG IT OFF]()**                       |
-| `81 -  88` | **[SIZING THINGS UP]()**                   |
-| `89 -  96` | **[THIS IS MY WHEELHOUSE]()**              |
-| `97 - 100` | **[WE'VE GOT A PLAN]()**                   |
+| `50 -  57` | **[JUST THE THING](https://nicolii.github.io/WhoTheDevilAreYou/Cards#just-the-thing)**                                      |
+| `58 -  65` | **[NOT LETTING THAT HAPPEN](https://nicolii.github.io/WhoTheDevilAreYou/Cards#not-letting-that-happen)**                    |
+| `66 -  69` | **[OUTSIDE HELP](https://nicolii.github.io/WhoTheDevilAreYou/Cards#outside-help)**                                          |
+| `70 -  80` | **[SHRUG IT OFF](https://nicolii.github.io/WhoTheDevilAreYou/Cards#shrug-it-off)**                                          |
+| `81 -  88` | **[SIZING THINGS UP](https://nicolii.github.io/WhoTheDevilAreYou/Cards#sizing-things-up)**                                  |
+| `89 -  96` | **[THIS IS MY WHEELHOUSE](https://nicolii.github.io/WhoTheDevilAreYou/Cards#this-is-my-wheelhouse)**                        |
+| `97 - 100` | **[WE'VE GOT A PLAN](https://nicolii.github.io/WhoTheDevilAreYou/Cards#weve-got-a-plan)**                                   |
 
 
 ## `01 -  10`  
