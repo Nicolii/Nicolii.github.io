@@ -9,22 +9,21 @@ permalink: /WhoTheDevilAreYou/Cards
 
 ## Card Roll Table
 
-`   ROLL   |` **CARD NAME**
-------------------------------------  
-` 01 -  10 ` - **AND I DO IT WITH STYLE**  
-` 11 -  18 ` - **GOAL**  
-` 19 -  26 ` - **I STUDIED FOR THIS TEST**  
-` 27 -  37 ` - **I'M BETTER THAN YOU THINK**  
-` 38 -  45 ` - **I'VE BEEN CALLED WORSE BY BETTER**  
-` 46 -  49 ` - **I'VE SEEN THIS BEFORE**  
-` 50 -  57 ` - **JUST THE THING**  
-` 58 -  65 ` - **NOT LETTING THAT HAPPEN**  
-` 66 -  69 ` - **OUTSIDE HELP**  
-` 70 -  80 ` - **SHRUG IT OFF**  
-` 81 -  88 ` - **SIZING THINGS UP**  
-` 89 -  96 ` - **THIS IS MY WHEELHOUSE**  
-` 97 - 100 ` - **WE'VE GOT A PLAN**  
------------------------------------  
+|   `ROLL`   |            **CARD NAME**               |
+| ---------: | :------------------------------------- |  
+| `01 -  10` | **AND I DO IT WITH STYLE**             |  
+| `11 -  18` | **GOAL**                               |
+| `19 -  26` | **I STUDIED FOR THIS TEST**            |
+| `27 -  37` | **I'M BETTER THAN YOU THINK**          |
+| `38 -  45` | **I'VE BEEN CALLED WORSE BY BETTER**   |
+| `46 -  49` | **I'VE SEEN THIS BEFORE**              |
+| `50 -  57` | **JUST THE THING**                     |
+| `58 -  65` | **NOT LETTING THAT HAPPEN**            |
+| `66 -  69` | **OUTSIDE HELP**                       |
+| `70 -  80` | **SHRUG IT OFF**                       |
+| `81 -  88` | **SIZING THINGS UP**                   |
+| `89 -  96` | **THIS IS MY WHEELHOUSE**              |
+| `97 - 100` | **WE'VE GOT A PLAN**                   |
 
 
 ## `01 -  10`  
