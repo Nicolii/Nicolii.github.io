@@ -7,6 +7,7 @@ permalink: /WhoTheDevilAreYou/Rules
 # Who the Devil Are You? Rules
 
 ## HURDLE
+
 |           |            |
 | :-------- | :--------- |
 | `1 -  2 ` | Easy       |
@@ -19,7 +20,8 @@ permalink: /WhoTheDevilAreYou/Rules
 
 ## ROLL
 
-Roll a dice according to your skill or ability level:  
+Roll a dice according to your skill or ability level:
+
 |        |                    |
 | -----: | :----------------- |
 | `d4 `  | Poor               |
@@ -30,21 +32,26 @@ Roll a dice according to your skill or ability level:
 
 ### Roll Result
 
-  `1   ` - Failure, and...  
- `Under ` - Failure  
-  `On   ` - Almost  
- `Over  ` - Success  
-`Double ` - Success, and...
+|          |                 |
+| -------- | :-------------- |
+|   `1`    | Failure, and... | 
+|  `Under` | Failure         |
+|   `On`   | Almost          |
+|  `Over`  | Success         |
+| `Double` | Success, and... |
 
 
 ## BOOST
 
-Increase the rolled die  
- `d4 `->  `d6 `   
- `d6 `->  `d8 `  
- `d8 `-> `d10 `   
-`d10 `-> `d12 `   
-`d12 `-> `d20 `  
+Increase the rolled die
+
+|       |    |       |
+| ----: | -- | ----: |
+|  `d4` | -> |  `d6` |
+|  `d6` | -> |  `d8` |
+|  `d8` | -> | `d10` | 
+| `d10` | -> | `d12` | 
+| `d12` | -> | `d20` |
 
 
 ## HARMONY
