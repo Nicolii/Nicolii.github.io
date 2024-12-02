@@ -7,7 +7,7 @@ permalink: /CypherSystem/CharacterSheet
 # Task Difficulty
 
 - Task Difficulty represents how difficult a given task is for the average person
-- Lowering Task Difficulty through [Skills], [Assets], and [Effort] means that the given Task is easier **for you** to accomplish compared to the average person
+- Lowering Task Difficulty through [Skills](), [Assets](), and [Effort]() means that the given Task is easier **for you** to accomplish compared to the average person
 
 # Effort
 
@@ -32,21 +32,21 @@ permalink: /CypherSystem/CharacterSheet
 
 # Edge
 
-- Your discount to **spending** points from the assigned [[#Stat Pools| Stat Pool]] **per Action**
+- Your discount to **spending** points from the assigned [Stat Pool]() **per Action**
 - Does not reduce the amount of points **taken** (points that you did not _choose_ to spend)
 - 
 # Action Cost
 
-- When performing an action that has a cost, you use your [[#Stat Pools]] as the resource to pull from 
+- When performing an action that has a cost, you use your [Stat Pools]() as the resource to pull from 
 - Formula for the cost of an action goes  
 	$(\text{Ability Cost} + \text{Effort Cost } (2 * \text{Level of Effort} + 1) + \text{Other}) - \text{Edge}$
 
 # Damage Track
 
 - Your hit points or wounds
-- Better represents the state of your characters health than the [[#Stat Pools]] do
-- You go down one step per depleted [[#Stat Pools|Stat Pool]]
-- There may be other circumstances that bypass [[#Stat Pools|Stat Pool]] depletion and directly effect your Damage Track such as: a strong poison, or falling from a great height
+- Better represents the state of your characters health than the [Stat Pools]() do
+- You go down one step per depleted [Stat Pool]()
+- There may be other circumstances that bypass [Stat Pool]() depletion and directly effect your Damage Track such as: a strong poison, or falling from a great height
 
 # Armour
 
