@@ -9,7 +9,7 @@ New Gaia, an enormous, rich new land discovered far from the [[Empire]] and the 
 <html>
 
 <body>
-  <img src="https://https://nicolii.github.io/NewGaia/Information/NewGaiaMap.bmp" />
+  <img src="https://github.com/Nicolii/Nicolii.github.io/raw/refs/heads/main/New%20Gaia/Images/NewGaiaMap.bmp" />
 </body>
 
 </html>
