@@ -1,9 +1,9 @@
+---
 layout: page
 title: "homepage"
 permalink: /CypherSystem/
-
-# Header 1
 ---
+# Header 1
 
 - This is a bullet point
 test text
