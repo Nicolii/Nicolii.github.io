@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "homepage"
+title: "Playas"
 permalink: /CypherSystem/Players
 ---
 # Players
