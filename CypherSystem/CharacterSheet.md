@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Character Sheet"
+permalink: /CypherSystem/CharacterSheet
+---
+
 # Task Difficulty
 
 - Task Difficulty represents how difficult a given task is for the average person
