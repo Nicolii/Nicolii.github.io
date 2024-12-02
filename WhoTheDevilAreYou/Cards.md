@@ -9,21 +9,21 @@ permalink: /WhoTheDevilAreYou/Cards
 
 ## Card Roll Table
 
-|  **ROLL**  |            **CARD NAME**               |
-| ---------: | :------------------------------------- |  
-| `01 -  10` | **AND I DO IT WITH STYLE**             |  
-| `11 -  18` | **GOAL**                               |
-| `19 -  26` | **I STUDIED FOR THIS TEST**            |
-| `27 -  37` | **I'M BETTER THAN YOU THINK**          |
-| `38 -  45` | **I'VE BEEN CALLED WORSE BY BETTER**   |
-| `46 -  49` | **I'VE SEEN THIS BEFORE**              |
-| `50 -  57` | **JUST THE THING**                     |
-| `58 -  65` | **NOT LETTING THAT HAPPEN**            |
-| `66 -  69` | **OUTSIDE HELP**                       |
-| `70 -  80` | **SHRUG IT OFF**                       |
-| `81 -  88` | **SIZING THINGS UP**                   |
-| `89 -  96` | **THIS IS MY WHEELHOUSE**              |
-| `97 - 100` | **WE'VE GOT A PLAN**                   |
+|  **ROLL**  |            **CARD NAME**                                                                                                    |
+| ---------: | :-------------------------------------------------------------------------------------------------------------------------  |  
+| `01 -  10` | **[AND I DO IT WITH STYLE](https://nicolii.github.io/WhoTheDevilAreYou/Cards#and-i-do-it-with-style)**                      |  
+| `11 -  18` | **[GOAL](https://nicolii.github.io/WhoTheDevilAreYou/Cards#goal)**                                                          |
+| `19 -  26` | **[I STUDIED FOR THIS TEST](https://nicolii.github.io/WhoTheDevilAreYou/Cards#i-studied-for-this-test)**                    |
+| `27 -  37` | **[I'M BETTER THAN YOU THINK](https://nicolii.github.io/WhoTheDevilAreYou/Cards#im-better-than-you-think)**                 |
+| `38 -  45` | **[I'VE BEEN CALLED WORSE BY BETTER](https://nicolii.github.io/WhoTheDevilAreYou/Cards#ive-been-called-worse-by-better)**   |
+| `46 -  49` | **[I'VE SEEN THIS BEFORE](https://nicolii.github.io/WhoTheDevilAreYou/Cards#ive-seen-this-before)**                         |
+| `50 -  57` | **[JUST THE THING]()**                     |
+| `58 -  65` | **[NOT LETTING THAT HAPPEN]()**            |
+| `66 -  69` | **[OUTSIDE HELP]()**                       |
+| `70 -  80` | **[SHRUG IT OFF]()**                       |
+| `81 -  88` | **[SIZING THINGS UP]()**                   |
+| `89 -  96` | **[THIS IS MY WHEELHOUSE]()**              |
+| `97 - 100` | **[WE'VE GOT A PLAN]()**                   |
 
 
 ## `01 -  10`  
