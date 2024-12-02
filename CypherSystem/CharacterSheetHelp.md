@@ -36,12 +36,12 @@ permalink: /CypherSystem/CharacterSheetHelp
 
 - Your discount to **spending** points from the assigned [Stat Pool](https://nicolii.github.io/CypherSystem/CharacterSheetHelp#stat-pools) **per Action**
 - Does not reduce the amount of points **taken** (points that you did not _choose_ to spend)
-- 
+
 ## Action Cost
 
 - When performing an action that has a cost, you use your [Stat Pools](https://nicolii.github.io/CypherSystem/CharacterSheetHelp#stat-pools) as the resource to pull from 
 - Formula for the cost of an action goes  
-	(Ability Cost + [Effort](https://nicolii.github.io/CypherSystem/CharacterSheetHelp#effort) Cost (2 * Level of [Effort](https://nicolii.github.io/CypherSystem/CharacterSheetHelp#effort) + 1) + Other) - Edge
+	(Ability Cost + [Effort](https://nicolii.github.io/CypherSystem/CharacterSheetHelp#effort) Cost + Other) - Edge
 
 ## Damage Track
 
