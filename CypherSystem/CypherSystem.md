@@ -6,6 +6,7 @@ permalink: /CypherSystem
 
 # Cypher System
 
-## [Character Sheet Help]()
+## [Character Sheet Help](https://nicolii.github.io/CypherSystem/CharacterSheetHelp)
 
-## [New Gaia]()
+## [New Gaia](https://nicolii.github.io/CypherSystem/NewGaia/NewGaia)
+
