@@ -13,6 +13,4 @@ _Italics_
 
 [Google Hyperlink](https://www.google.com.au)
 
-[TEST](https://nicolii.github.io/CypherSystem/Players)
-
 tahtldkas
