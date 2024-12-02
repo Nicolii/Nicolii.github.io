@@ -8,14 +8,14 @@ permalink: /WhoTheDevilAreYou/Rules
 
 ## HURDLE
 
-|           |            |
-| :-------- | :--------- |
-| `1 -  2 ` | Easy       |
-| `3 -  4 ` | Average    |
-| `5 -  6 ` | Hard       |
-| `7 -  8 ` | Very Hard  | 
-| `9 - 10+` | Ridiculous | 
-| `—————— ` | Impossible |  
+|            |            |
+| :--------- | :--------- |
+| `01 - 02 ` | Easy       |
+| `03 - 04 ` | Average    |
+| `05 - 06 ` | Hard       |
+| `07 - 08 ` | Very Hard  | 
+| `09 - 10+` | Ridiculous | 
+| `——————— ` | Impossible |  
 
 
 ## ROLL
@@ -24,16 +24,16 @@ Roll a dice according to your skill or ability level:
 
 |        |                    |
 | -----: | :----------------- |
-| `d4 `  | Poor               |
-| `d6 `  | Average (no skill) |
-| `d8 `  | Good               |
-| `d10 ` | Best               |
+|  `d4`  | Poor               |
+|  `d6`  | Average (no skill) |
+|  `d8`  | Good               |
+| `d10`  | Best               |
 
 
 ### Roll Result
 
 |          |                 |
-| -------- | :-------------- |
+| :------: | :-------------- |
 |   `1`    | Failure, and... | 
 |  `Under` | Failure         |
 |   `On`   | Almost          |
