@@ -1,11 +1,8 @@
 ---
 layout: page
 title: "New Gaia Information"
-permalink: /CypherSystem/New Gaia/Information
+permalink: /CypherSystem/NewGaia/Information
 ---
-# Table of Contents
-[[The Eldar]]
-
 # The Eldar
 ## Eldar Language
 ### Insults
