@@ -7,22 +7,25 @@ permalink: /WhoTheDevilAreYou/Rules
 # Who the Devil Are You? Rules
 
 ## HURDLE
-
-`1 -  2 ` Easy  
-`3 -  4 ` Average  
-`5 -  6 ` Hard  
-`7 -  8 ` Very Hard  
-`9 - 10+` Ridiculous  
-`—————— ` Impossible  
+|           |            |
+| :-------- | :--------- |
+| `1 -  2 ` | Easy       |
+| `3 -  4 ` | Average    |
+| `5 -  6 ` | Hard       |
+| `7 -  8 ` | Very Hard  | 
+| `9 - 10+` | Ridiculous | 
+| `—————— ` | Impossible |  
 
 
 ## ROLL
 
 Roll a dice according to your skill or ability level:  
- `d4 ` - Poor  
- `d6 ` - Average (no skill)  
- `d8 ` - Good  
-`d10 ` - Best  
+|        |                    |
+| -----: | :----------------- |
+| `d4 `  | Poor               |
+| `d6 `  | Average (no skill) |
+| `d8 `  | Good               |
+| `d10 ` | Best               |
 
 
 ### Roll Result
