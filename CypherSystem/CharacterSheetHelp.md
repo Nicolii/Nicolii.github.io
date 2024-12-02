@@ -3,7 +3,6 @@ layout: page
 title: "Character Sheet Help"
 permalink: /CypherSystem/CharacterSheetHelp
 ---
-
 # Character Sheet Help
 
 ## Task Difficulty
