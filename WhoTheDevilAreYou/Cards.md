@@ -9,7 +9,7 @@ permalink: /WhoTheDevilAreYou/Cards
 
 ## Card Roll Table
 
-|   `ROLL`   |            **CARD NAME**               |
+|  **ROLL**  |            **CARD NAME**               |
 | ---------: | :------------------------------------- |  
 | `01 -  10` | **AND I DO IT WITH STYLE**             |  
 | `11 -  18` | **GOAL**                               |
