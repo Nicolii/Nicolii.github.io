@@ -1,6 +1,6 @@
 layout: page
-title: "PAGE-TITLE"
-permalink: /test/testpage
+title: "homepage"
+permalink: /CypherSystem/
 
 # Header 1
 ---
