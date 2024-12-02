@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Iron Kingdom"
-permalink: /CypherSystem/NewGaia/IronKingdom
+title: "Iron Kingdoms"
+permalink: /CypherSystem/NewGaia/IronKingdoms
 ---
 
 # Iron Kingdom
