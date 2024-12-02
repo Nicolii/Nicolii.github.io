@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Cypher System"
-permalink: /CypherSystem/
+permalink: /CypherSystem
 ---
 # Header 1
 
