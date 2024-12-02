@@ -28,37 +28,45 @@ permalink: /WhoTheDevilAreYou/Cards
 
 
 `01 -  10`  
-**AND I DO IT WITH STYLE**  
+**AND I DO IT WITH STYLE**
+
 > Turn any success into a Success, and...
 
 
 `11 -  18`  
-**GOAL**  
-> When you get this card, pick a Side Goal for your character. During the game, if you (and the rest of the players) believe you have achieved your Side Goal, you can reroll an action and Boost the die.
-> Side Goals include:
-> - Help someone with something significant (such as by saving their life)
-> - Convince someone of something
-> - Defeat an important for in combat
-> - Prove to the other PCs that you're a valuable ally
-> - Terrify someone
-> - Trick someone"
+**GOAL**
+
+When you get this card, pick a Side Goal for your character. During the game, if you (and the rest of the players) believe you have achieved your Side Goal, you can reroll an action and Boost the die.
+
+Side Goals include:
+
+- Help someone with something significant (such as by saving their life)
+- Convince someone of something
+- Defeat an important for in combat
+- Prove to the other PCs that you're a valuable ally
+- Terrify someone
+- Trick someone
 
 
 `19 -  26`  
-**I STUDIED FOR THIS TEST**  
-> You have a piece of information crucial to your success (a password, the route to the fire escape, or the like).
+**I STUDIED FOR THIS TEST**
+
+You have a piece of information crucial to your success (a password, the route to the fire escape, or the like).
 
 
 `27 -  37`  
-**I'M BETTER THAN YOU THINK**  
-> Turn any failure into an Almost. Or an Almost into a success.
+**I'M BETTER THAN YOU THINK**
+
+Turn any failure into an Almost. Or an Almost into a success.
 
 
 `38 -  45`  
-**I'VE BEEN CALLED WORSE BY BETTER**  
-> You recall a situation in which you were opposed by another person (or entity) and bested them. You provide the story, and you can Boost the die on all actions relating to the current situation in which you are opposed by someone
+**I'VE BEEN CALLED WORSE BY BETTER**
+
+You recall a situation in which you were opposed by another person (or entity) and bested them. You provide the story, and you can Boost the die on all actions relating to the current situation in which you are opposed by someone
 
 
 `46 -  49`  
-**I'VE SEEN THIS BEFORE**  
-> You recall a situation that suggests a solution to a similar situation you face now. You provide the story and how it relates to the current moment. Then you can Boost the die on all actions relating to the situation before you.
+**I'VE SEEN THIS BEFORE**
+
+You recall a situation that suggests a solution to a similar situation you face now. You provide the story and how it relates to the current moment. Then you can Boost the die on all actions relating to the situation before you.
