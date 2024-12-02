@@ -3,24 +3,6 @@ layout: page
 title: "New Gaia Information"
 permalink: /CypherSystem/NewGaia/Information
 ---
-# The Eldar
-## Eldar Language
-### Insults
-
-| Plain                     | Eldar                  |
-| :------------------------ | :--------------------- |
-| Dumbass                   | Que-gi-Luhn            |
-| Tiny dirt                 | Shuck-ok               |
-| Excrement of dung beetle  | Bohl-tu-Sook           |
-| Waste of human            | Sook-ne-Twass-de-Kohl  |
-
-### Creatures
-
-| Plain        | Eldar                    |
-| :----------- | :----------------------- |
-| Flesh golem  | Duhl-no-Thack-hos-Vrall  |
-| Human        | Bohl-tu-Sook             |
-           
 # New Gaia
 New Gaia, an enormous, rich new land discovered far from the [[Empire]] and the [[Kingdoms]]. A little over 10 years ago this new land was found (no one's really sure which side discovered it first) by both sides, seeking to find a new route from which to assault one another. [[The Bright Empire]], while closer, does not have the advanced sciences or steam engines to power their efforts, and their divine magic, while great for many things, does not build towns. Over the last decade, both sides have begun to build colonies and begin exploring New Gaia, discovering the magical resources, creatures, and peoples that inhabit it.
 
