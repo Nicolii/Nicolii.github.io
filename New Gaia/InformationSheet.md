@@ -6,6 +6,13 @@ permalink: /CypherSystem/NewGaia/Information
 # New Gaia
 New Gaia, an enormous, rich new land discovered far from the [[Empire]] and the [[Kingdoms]]. A little over 10 years ago this new land was found (no one's really sure which side discovered it first) by both sides, seeking to find a new route from which to assault one another. [[The Bright Empire]], while closer, does not have the advanced sciences or steam engines to power their efforts, and their divine magic, while great for many things, does not build towns. Over the last decade, both sides have begun to build colonies and begin exploring New Gaia, discovering the magical resources, creatures, and peoples that inhabit it.
 
+<html>
+
+<body>
+  <img src="https://https://nicolii.github.io/NewGaia/Information/NewGaiaMap.bmp" />
+</body>
+
+</html>
 
 ## The People
 All across New Gaia are human tribes, living here for thousands of years, just as infused with the magics of this land as the other creatures that inhabit it. The human tribes of New Gaia, while undeniably human, have greatly changed from their distant relatives from across the sea. They often possess strange, to outlanders, animal like features and adaptations to their environments and lifestyle. A tribe of nomadic hunters that live within the forest may have dappled skin and much taller and more agile bodies. A coastal tribe may have an oily, bluish skin, webbed hands and feet and even a tail and gills. A tribe that lives underground might have colourless skin, elongated ears or other heightened senses. Some have even reported sighting what looked like flying humans high within the mountains.
