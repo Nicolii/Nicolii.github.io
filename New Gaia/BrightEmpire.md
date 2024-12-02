@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Bright Empire"
-permalink: /CypherSystem/NewGaia/Bright Empire
+permalink: /CypherSystem/NewGaia/BrightEmpire
 ---
 
 # Bright Empire
