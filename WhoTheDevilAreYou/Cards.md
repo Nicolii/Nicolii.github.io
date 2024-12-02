@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Who The Devil Are You? Rules"
-permalink: /WhoTheDevilAreYou/Rules
+title: "Who The Devil Are You? Cards"
+permalink: /WhoTheDevilAreYou/Cards
 ---
 
 # Who the Devil Are You? Cards
