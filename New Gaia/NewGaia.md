@@ -5,7 +5,11 @@ permalink: /CypherSystem/NewGaia/NewGaia
 ---
 # Table of Contents
 - New Gaia
-  - [The People](https://nicolii.github.io/CypherSystem/NewGaia/NewGaia#The-People)
+  - [The People](https://nicolii.github.io/CypherSystem/NewGaia/NewGaia#the-people)
+  - [The Beastfolk](https://nicolii.github.io/CypherSystem/NewGaia/NewGaia#the-beastfolk)
+  - [The Oricai](https://nicolii.github.io/CypherSystem/NewGaia/NewGaia#the-oricai)
+  - [The Flora and Fauna](https://nicolii.github.io/CypherSystem/NewGaia/NewGaia#the-flora-and-fauna)
+  - [Rumours About the New World](https://nicolii.github.io/CypherSystem/NewGaia/NewGaia#rumours-about-the-new-world)
 
 # New Gaia
 New Gaia, an enormous, rich new land discovered far from [The Bright Empire](https://nicolii.github.io/CypherSystem/NewGaia/BrightEmpire) and the [[Kingdoms]]. A little over 10 years ago this new land was found (no one's really sure which side discovered it first) by both sides, seeking to find a new route from which to assault one another. [The Bright Empire](https://nicolii.github.io/CypherSystem/NewGaia/BrightEmpire), while closer, does not have the advanced sciences or steam engines to power their efforts, and their divine magic, while great for many things, does not build towns. Over the last decade, both sides have begun to build colonies and begin exploring New Gaia, discovering the magical resources, creatures, and peoples that inhabit it.
