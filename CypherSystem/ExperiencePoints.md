@@ -56,7 +56,9 @@ Your Effort score increases by 1.
 
 ### Skills
 
-Choose one skill other than attacks or defense, such as climbing, jumping, persuading, sneaking, or history. You become trained in that skill. You can also choose to be knowledgeable in a certain area of study, such as history or geology. You can even choose a skill based on your character's special abilities. For example, if your character can make an Intellect roll to blast an enemy with mental force, you can become trained in that ability, easing the task of using it.
+Should talk to your GM when choosing this advancement. But here's the general overview:
+
+Choose one skill **other than basic attacks or defense**, such as climbing, jumping, persuading, sneaking, or history. Your skill should not be too broad either, sneaking, pickpocketing, hiding may all be appropriate, but stealth is too broad. You become trained in that skill. You can also choose to be knowledgeable in a certain area of study, such as history or geology. You can even choose a skill based on your character's special abilities. For example, if your character can make an Intellect roll to blast an enemy with mental force, you can become trained in that ability, easing the task of using it. You cannot be skilled in a broad category of abilities like "mental powers" **it must be a specific ability**.
 
 If you choose a skill that you are already trained in, you become specialized in that skill, easing the task by two steps instead of one. If you choose a skill that you have an inability in, the training and the inability cancel each other out (you aren't eased or hindered in that task). For example, if you have an inability in perception, becoming trained in that cancels out the inability.
 
