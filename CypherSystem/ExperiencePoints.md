@@ -27,13 +27,14 @@ Experience Points (XP) like many games are used to advance your character's 'pow
 
 - Character Advancement
 
+---
+
+Every option to spend XP is effecting the narrative of your character to varying degrees, be that a inconsequential stumble (re-roll), 
+being able to intimidate anyone in your home suburb (local skill), or becoming stronger or more capable (character advancement)
+
 ## Player Intrusion
 
 A Player Intrusion should always involve an aspect of the world beyond the Character, an element of luck outside of the Character's control.  
 These can affect a single object (a floorboard snaps), feature (a hidden shallow spot in the stream to ford), NPC (vendor is an old friend), or retcon (hid tools here earlier). But not more.  
 A Player Intrusion can’t affect a whole village or even a whole tavern. A rock can come loose, but a Player Intrusion can’t create a landslide.
 
----
-
-Every option to spend XP is effecting the narrative of your character to varying degrees, be that a inconsequential stumble (re-roll), 
-being able to intimidate anyone in your home suburb (local skill), or becoming stronger or more capable (character advancement)
