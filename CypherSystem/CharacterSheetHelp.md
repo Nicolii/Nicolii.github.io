@@ -20,11 +20,11 @@ permalink: /CypherSystem/CharacterSheetHelp
 - Think of this as a resource that recharges after every task  
 	_Decide to use Effort before rolling for the task, not after_
 
-## Experience Points (XP)
+## [Experience Points (XP)](https://nicolii.github.io/CypherSystem/ExperiencePoints)
 
 - XP like most RPGs is used to advance your character
 - But it is also used as a currency for you as the player—outside of your character—to do more
-- Examples on the cheat sheet
+- Examples on the [Experience Points](https://nicolii.github.io/CypherSystem/ExperiencePoints) page
 
 ## Stat Pools
 
