@@ -40,6 +40,8 @@ A Player Intrusion can’t affect a whole village or even a whole tavern. A rock
 
 ## Character Advancement
 
+You can select each one of these options **once** per Tier
+
 ### Increasing Capabilities
 
 You gain 4 new points to add to your stat Pools. You can allocate the points among your Pools however you wish.
@@ -60,7 +62,7 @@ If you choose a skill that you are already trained in, you become specialized in
 
 ### Other Option
 
-Players can also spend 4 XP to purchase other special options. Selecting one of these options counts as purchasing one of the four stages necessary to advance to the next tier. The other three need to be from the other categories. The special options are as follows:
+Players can also spend 4 XP to purchase other special options. Selecting one of these options counts using the "Other Option" once, removing the option to pick "Other Option" again in the same Tier. The other three selections need to be from the non-"Other Option" categories. The special options are as follows:
 
 - Reduce the cost for wearing armor. This option lowers the Speed penalty for wearing armor by 1.
 - Add 2 to your recovery rolls.
