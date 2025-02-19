@@ -11,7 +11,7 @@ Experience Points (XP) like many games are used to advance your character's 'pow
 ### 1 XP
 
 - Re-roll **any** roll.
-- Make a [Player Intrusion](https://nicolii.github.io/CypherSystem/ExperiencePoints#PlayerIntrusion).
+- Make a [Player Intrusion](https://nicolii.github.io/CypherSystem/ExperiencePoints#player-intrusion).
 - Acquire a Subtle Cypher of a category.
 - Refuse a GM Intrusion.
 
@@ -25,7 +25,7 @@ Experience Points (XP) like many games are used to advance your character's 'pow
 
 ### 4 XP
 
-- [Character Advancement](https://nicolii.github.io/CypherSystem/ExperiencePoints#CharacterAdvancement)
+- [Character Advancement](https://nicolii.github.io/CypherSystem/ExperiencePoints#character-advancement)
 
 ---
 
