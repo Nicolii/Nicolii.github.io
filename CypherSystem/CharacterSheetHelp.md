@@ -17,6 +17,7 @@ permalink: /CypherSystem/CharacterSheetHelp
 - Spend points from each appropriate pool to use Effort
 - Apply Effort to the Tasks you care about
 - Effort Cost = (2 * Level of Effort + 1)
+	- Or first level of Effort costs 3 Pool points, then 2 points for every level of Effort applied thereafter.
 - Think of this as a resource that recharges after every task  
 	_Decide to use Effort before rolling for the task, not after_
 
