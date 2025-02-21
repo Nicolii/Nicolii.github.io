@@ -23,11 +23,22 @@ permalink: /CypherSystem/CharacterSheetHelp
 		- 6 (18 on the dice) 15% chance of success  
 		- 7+(21 on the dice) 0% chance of success **is an automatic failure**
 
+| Difficulty | Success % | Dice # |
+| ---------- | --------- | ------ |
+|     0      |    100    |    0   |
+|     1      |     90    |    3   |
+|     2      |     75    |    6   |
+|     3      |     60    |    9   |
+|     4      |     45    |   12   |
+|     5      |     30    |   15   |
+|     6      |     15    |   18   |
+|     7+     |      0    |   21+  |
+
 - There are only _really_ four Difficulty numbers you need to remember
-	- 0 is a guarunteed success  
+	- 0 is a guaranteed success  
 	- 3 is a little bit better than 50% chance of success  
 	- 4 is a little bit worse than 50% chance of success  
-	- 7 is a guarunteed failure  
+	- 7 is a guaranteed failure  
 
 ## Effort
 
