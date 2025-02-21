@@ -14,14 +14,6 @@ permalink: /CypherSystem/CharacterSheetHelp
 	- All things that contribute to the difficulty **must** be done **before** the roll
 - The final Difficulty number is then multiplied by 3, this becomes your target number to roll on the dice
 	- that means there are only 6 possible successful numbers to target when rolling the dice
-		- 0 (0 on the dice) 100% chance of success **is an automatic success**  
-		- 1 (3 on the dice) 90% chance of success  
-		- 2 (6 on the dice) 75% chance of success  
-		- 3 (9 on the dice) 60% chance of success  
-		- 4 (12 on the dice) 45% chance of success  
-		- 5 (15 on the dice) 30% chance of success  
-		- 6 (18 on the dice) 15% chance of success  
-		- 7+(21 on the dice) 0% chance of success **is an automatic failure**
 
 | Difficulty | Success % | Dice # |
 | :--------: | :-------: | :----: |
