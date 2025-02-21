@@ -10,8 +10,8 @@ permalink: /CypherSystem/CharacterSheetHelp
 
 - Task Difficulty represents how difficult a given task is for the average person
 - By lowering Task Difficulty through [Skills](https://nicolii.github.io/CypherSystem/CharacterSheetHelp#skills), [Assets](), and [Effort](https://nicolii.github.io/CypherSystem/CharacterSheetHelp#effort) means that the given Task is easier **for you** to accomplish compared to the average person
-- You establish the target difficulty for your character before you roll.
-	- All things that contribute to the difficulty **must** be done **before** the roll
+- You establish the target Difficulty for your character before you roll.
+	- All things that contribute to the Difficulty **must** be done **before** the roll
 - The final Difficulty number is then multiplied by 3, this becomes your target number to roll on the dice
 	- that means there are only 6 possible successful numbers to target when rolling the dice
 
@@ -31,6 +31,10 @@ permalink: /CypherSystem/CharacterSheetHelp
 	- 3 is a little bit better than 50% chance of success  
 	- 4 is a little bit worse than 50% chance of success  
 	- 7 is a guaranteed failure  
+
+- Sometimes, you will not be given a Difficulty number to target.
+	- Since you must give any qualties that can contribute to the roll ([Skills], [Assets], [Abilities], [Cyphers], [Effort]) make sure that you understand the context of the roll and why you may not be given a Difficulty number to target.
+- 
 
 ## Effort
 
