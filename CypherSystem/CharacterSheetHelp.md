@@ -30,14 +30,22 @@ permalink: /CypherSystem/CharacterSheetHelp
 
 ## Effort
 
+- Apply Effort to the Tasks your character cares about
 - Amount of times you can apply Effort to a **singular** Task
+- Each measure of Effort applied to a Task eases the task by 1
 - Spend points from each appropriate [Pool](https://nicolii.github.io/CypherSystem/CharacterSheetHelp#stat-pools) to use Effort
-- Apply Effort to the Tasks you care about
 - Effort Cost = (2 * Level of Effort + 1)
 	- Or first level of Effort costs 3 Pool points, then 2 points for every level of Effort applied thereafter.
 - Think of this as a resource that recharges after every task
 
-	_Decide to use Effort before rolling for the task, not after_
+	**_Decide to use Effort before rolling for the task, not after_**
+
+- Effort can be used to (depending on the task) increase:
+	- Chance of success
+	- Damage
+ 	- Range
+  	- Duration
+  	- Ability to affect a creature of 1 higher level
 
 ## [Experience Points (XP)](https://nicolii.github.io/CypherSystem/ExperiencePoints)
 
