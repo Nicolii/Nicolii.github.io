@@ -33,8 +33,11 @@ permalink: /CypherSystem/CharacterSheetHelp
 	- 7 is a guaranteed failure  
 
 - Sometimes, you will not be given a Difficulty number to target.
-	- Since you must give any qualties that can contribute to the roll ([Skills], [Assets], [Abilities], [Cyphers], [Effort]) make sure that you understand the context of the roll and why you may not be given a Difficulty number to target.
-- 
+	- Since you must give any qualties that can contribute to the roll ([Skills](https://nicolii.github.io/CypherSystem/CharacterSheetHelp#skills), [Assets](https://nicolii.github.io/CypherSystem/CharacterSheetHelp#equipment), [Abilities], [Cyphers], [Effort](https://nicolii.github.io/CypherSystem/CharacterSheetHelp#effort)) make sure that you understand the context of the roll and why you may not be given a Difficulty number to target.
+	- These rolls can be hidden for some reasons:
+		- Your character is just simply unknowledgable about the subject
+		- It's a graduated scale where success isn't binary
+		- I simply forgot :P
 
 ## Effort
 
