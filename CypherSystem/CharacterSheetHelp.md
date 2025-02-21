@@ -43,9 +43,9 @@ permalink: /CypherSystem/CharacterSheetHelp
 - Effort can be used to (depending on the task) increase:
 	- Chance of success
 	- Damage
- 	- Range
-  	- Duration
-  	- Ability to affect a creature of 1 higher level
+	- Range
+	- Duration
+	- Ability to affect a creature of 1 higher level
 
 ## [Experience Points (XP)](https://nicolii.github.io/CypherSystem/ExperiencePoints)
 
