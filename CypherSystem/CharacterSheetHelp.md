@@ -58,6 +58,8 @@ permalink: /CypherSystem/CharacterSheetHelp
 	- Duration
 	- Ability to affect a creature of 1 higher level
 
+ **Effort is typically THE most expensive way to reduce [Task Difficulty](https://nicolii.github.io/CypherSystem/CharacterSheetHelp#task-difficulty). Use [Skills](https://nicolii.github.io/CypherSystem/CharacterSheetHelp#skills), [Assets](https://nicolii.github.io/CypherSystem/CharacterSheetHelp#equipment), [Abilities](https://nicolii.github.io/CypherSystem/CharacterSheetHelp#special-abilities), and [cyphers] before the higher cost of using Effort**
+
 ## [Experience Points (XP)](https://nicolii.github.io/CypherSystem/ExperiencePoints)
 
 - XP like most RPGs is used to advance your character
