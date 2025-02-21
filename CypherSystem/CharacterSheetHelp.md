@@ -10,15 +10,31 @@ permalink: /CypherSystem/CharacterSheetHelp
 
 - Task Difficulty represents how difficult a given task is for the average person
 - Lowering Task Difficulty through [Skills](https://nicolii.github.io/CypherSystem/CharacterSheetHelp#skills), [Assets](), and [Effort](https://nicolii.github.io/CypherSystem/CharacterSheetHelp#effort) means that the given Task is easier **for you** to accomplish compared to the average person
+- You establish the target difficulty before you roll, so all things that contribute to the difficulty **must** be done **before** the roll
+- The final number to roll on the dice is the Difficulty number multiplied by 3 that means there are only 6 possible successful numbers to target when rolling the dice
+	- 0 ( 0 on the dice) 100% chance of success **is an automatic success**
+ 	- 1 ( 3 on the dice)  90% chance of success
+ 	- 2 ( 6 on the dice)  75% chance of success
+ 	- 3 ( 9 on the dice)  60% chance of success
+ 	- 4 (12 on the dice)  45% chance of success
+	- 5 (15 on the dice)  30% chance of success
+ 	- 6 (18 on the dice)  15% chance of success
+	- 7+ (21 on the dice)  0% chance of success **is an automatic failure**
+ 		- There are only _really_ four Difficulty numbers you need to remember
+	 		- 0 is a guarunteed success
+			- 3 is a little bit better than 50% chance of success
+	 		- 4 is a little bit worse than 50% chance of success
+		  	- 7 is a guarunteed failure
 
 ## Effort
 
 - Amount of times you can apply Effort to a **singular** Task
-- Spend points from each appropriate pool to use Effort
+- Spend points from each appropriate [Pool](https://nicolii.github.io/CypherSystem/CharacterSheetHelp#stat-pools) to use Effort
 - Apply Effort to the Tasks you care about
 - Effort Cost = (2 * Level of Effort + 1)
 	- Or first level of Effort costs 3 Pool points, then 2 points for every level of Effort applied thereafter.
-- Think of this as a resource that recharges after every task  
+- Think of this as a resource that recharges after every task
+
 	_Decide to use Effort before rolling for the task, not after_
 
 ## [Experience Points (XP)](https://nicolii.github.io/CypherSystem/ExperiencePoints)
@@ -36,7 +52,10 @@ permalink: /CypherSystem/CharacterSheetHelp
 ## Edge
 
 - Your discount to **spending** points from the assigned [Stat Pool](https://nicolii.github.io/CypherSystem/CharacterSheetHelp#stat-pools) **per Action**
+	- This also includes mandatory spends for doing a task
+ 		- Example: holding open a heavy stone door until someone is able to climb through costing 4 Might
 - Does not reduce the amount of points **taken** (points that you did not _choose_ to spend)
+	- Example: damage
 
 ## Action Cost
 
@@ -49,7 +68,8 @@ permalink: /CypherSystem/CharacterSheetHelp
 - Your hit points or wounds
 - Better represents the state of your characters health than the [Stat Pools](https://nicolii.github.io/CypherSystem/CharacterSheetHelp#stat-pools) do
 - You go down one step per depleted [Stat Pool](https://nicolii.github.io/CypherSystem/CharacterSheetHelp#stat-pools)
-- There may be other circumstances that bypass [Stat Pool](https://nicolii.github.io/CypherSystem/CharacterSheetHelp#stat-pools) depletion and directly effect your Damage Track such as: a strong poison, or falling from a great height
+- There may be other circumstances that bypass [Stat Pool](https://nicolii.github.io/CypherSystem/CharacterSheetHelp#stat-pools) depletion and directly effect your Damage Track
+	- Example: a strong poison, or falling from a great height
 
 ## Armour
 
@@ -58,7 +78,10 @@ permalink: /CypherSystem/CharacterSheetHelp
 
 ## Skills
 
-- Skills make an appropriate, related Task easier (if Trained, or Specialised) or harder (if have Inability)
+- Skills make an appropriate, related Task eased (if Trained by 1, or Specialised by 2) or hindered (if have Inability)
+- Skills can overlap and both can contribute
+	- Example: the broad skill of "stealth" and the narrow skill of "sneaking"
+- Skills cannot ease a Task by more than 2 steps
 
 ## Special Abilities
 
@@ -69,6 +92,7 @@ permalink: /CypherSystem/CharacterSheetHelp
 - Are considered Assets on a task (an axe to help you break down a door, a crowbar to pry something open)
 - Try to use to ease your Task using equipment before applying [Effort](https://nicolii.github.io/CypherSystem/CharacterSheetHelp#effort)
 - Is also just general equipment
+- Assets cannot ease a Task by more than 2 steps
 
 ## Cyphers
 
