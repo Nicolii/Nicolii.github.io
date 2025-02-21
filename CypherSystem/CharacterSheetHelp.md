@@ -20,7 +20,7 @@ permalink: /CypherSystem/CharacterSheetHelp
 - 4 (12 on the dice) 45% chance of success  
 - 5 (15 on the dice) 30% chance of success  
 - 6 (18 on the dice) 15% chance of success  
-- 7+(21 on the dice) 0% chance of success **is an automatic failure**  
+- 7+(21 on the dice) 0% chance of success **is an automatic failure**
 
 - There are only _really_ four Difficulty numbers you need to remember
 	- 0 is a guarunteed success  
