@@ -9,18 +9,19 @@ permalink: /CypherSystem/CharacterSheetHelp
 ## Task Difficulty
 
 - Task Difficulty represents how difficult a given task is for the average person
-- Lowering Task Difficulty through [Skills](https://nicolii.github.io/CypherSystem/CharacterSheetHelp#skills), [Assets](), and [Effort](https://nicolii.github.io/CypherSystem/CharacterSheetHelp#effort) means that the given Task is easier **for you** to accomplish compared to the average person
-- You establish the target difficulty before you roll, so all things that contribute to the difficulty **must** be done **before** the roll
-- The final number to roll on the dice is the Difficulty number multiplied by 3 that means there are only 6 possible successful numbers to target when rolling the dice
-
-- 0 (0 on the dice) 100% chance of success **is an automatic success**  
-- 1 (3 on the dice) 90% chance of success  
-- 2 (6 on the dice) 75% chance of success  
-- 3 (9 on the dice) 60% chance of success  
-- 4 (12 on the dice) 45% chance of success  
-- 5 (15 on the dice) 30% chance of success  
-- 6 (18 on the dice) 15% chance of success  
-- 7+(21 on the dice) 0% chance of success **is an automatic failure**
+- By lowering Task Difficulty through [Skills](https://nicolii.github.io/CypherSystem/CharacterSheetHelp#skills), [Assets](), and [Effort](https://nicolii.github.io/CypherSystem/CharacterSheetHelp#effort) means that the given Task is easier **for you** to accomplish compared to the average person
+- You establish the target difficulty for your character before you roll.
+	- All things that contribute to the difficulty **must** be done **before** the roll
+- The final Difficulty number is then multiplied by 3, this becomes your target number to roll on the dice
+	- that means there are only 6 possible successful numbers to target when rolling the dice
+		- 0 (0 on the dice) 100% chance of success **is an automatic success**  
+		- 1 (3 on the dice) 90% chance of success  
+		- 2 (6 on the dice) 75% chance of success  
+		- 3 (9 on the dice) 60% chance of success  
+		- 4 (12 on the dice) 45% chance of success  
+		- 5 (15 on the dice) 30% chance of success  
+		- 6 (18 on the dice) 15% chance of success  
+		- 7+(21 on the dice) 0% chance of success **is an automatic failure**
 
 - There are only _really_ four Difficulty numbers you need to remember
 	- 0 is a guarunteed success  
