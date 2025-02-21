@@ -24,7 +24,7 @@ permalink: /CypherSystem/CharacterSheetHelp
 		- 7+(21 on the dice) 0% chance of success **is an automatic failure**
 
 | Difficulty | Success % | Dice # |
-| ---------- | --------- | ------ |
+| :--------: | :-------: | :----: |
 |     0      |    100    |    0   |
 |     1      |     90    |    3   |
 |     2      |     75    |    6   |
