@@ -83,8 +83,8 @@ permalink: /CypherSystem/CharacterSheetHelp
 ## Action Cost
 
 - When performing an action that has a cost, you use your [Stat Pools](https://nicolii.github.io/CypherSystem/CharacterSheetHelp#stat-pools) as the resource to pull from 
-- Formula for the cost of an action goes  
-	(Ability Cost + [Effort](https://nicolii.github.io/CypherSystem/CharacterSheetHelp#effort) Cost + Other) - Edge
+- Formula for the cost of an action:
+	**(Ability Cost + [Effort](https://nicolii.github.io/CypherSystem/CharacterSheetHelp#effort) Cost + Other) - Edge**
 
 ## Damage Track
 
